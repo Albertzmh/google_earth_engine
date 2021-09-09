@@ -1,2 +1,2 @@
 # google_earth_engine
-gee
+This repository is a record of my Google Earth Engine learning process. 
